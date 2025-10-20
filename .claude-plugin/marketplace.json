@@ -1,0 +1,44 @@
+{
+  "plugins": [
+    {
+      "name": "api-scaffolding",
+      "version": "1.2.2",
+      "path": "plugins/api-scaffolding"
+    },
+    {
+      "name": "backend-api-security",
+      "version": "1.2.2",
+      "path": "plugins/backend-api-security"
+    },
+    {
+      "name": "backend-development",
+      "version": "1.2.2",
+      "path": "plugins/backend-development"
+    },
+    {
+      "name": "data-engineering",
+      "version": "1.2.2",
+      "path": "plugins/data-engineering"
+    },
+    {
+      "name": "database-cloud-optimization",
+      "version": "1.2.2",
+      "path": "plugins/database-cloud-optimization"
+    },
+    {
+      "name": "data-validation-suite",
+      "version": "1.2.2",
+      "path": "plugins/data-validation-suite"
+    },
+    {
+      "name": "python-development",
+      "version": "1.2.2",
+      "path": "plugins/python-development"
+    },
+    {
+      "name": "api-testing-observability",
+      "version": "1.2.2",
+      "path": "plugins/api-testing-observability"
+    }
+  ]
+}
